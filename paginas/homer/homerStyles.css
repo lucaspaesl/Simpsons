@@ -5,9 +5,19 @@ img{
 
 }
 
-
-/*remover da versão de exercício */
 p{
     text-align: justify;
     display: flex;
+}
+
+.alinharAoCentro{
+    display: flex;
+    justify-content: center;
+    padding-left: 80px;
+}
+
+#video{
+    border-radius: 10px;
+    height: 315px;
+    width: 560px;
 }

@@ -13,6 +13,7 @@ a:link {
 
 h1{
     color:#ffee05;
+    color: inherit;
 }
 
 .stopFloat{    
